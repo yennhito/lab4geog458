@@ -32,6 +32,6 @@ Link to hosted webmap:
 ## Tile 4 Screenshot - Seahawks Theme
 ![Map Image](img/seahawkstemp.PNG)
 
-- Description of Tile: Map tile made using the color scheme from the former Seattle Supersonics NBA team. 
+- Description of Tile: Map tile made using the color scheme of the Seattle Seahawks. 
 - Geographic Area of Focus: Seattle, WA and surrounding neighborhoods 
 - Zoom Levels: Max Zoom - 14; Min Zoom - 10
