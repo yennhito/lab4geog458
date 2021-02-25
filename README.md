@@ -2,14 +2,13 @@
 
 Lab 4: Generating Map Tiles
 
-Link to hosted webmap: 
+Link to hosted webmap: https://yennhito.github.io/lab4geog458/
 
 ## Tile 1 Screenshot - Modified Basemap
 ![Map Image](img/modbasetemp.PNG)
 
 
-
-- Description of Tile: Modified basemap simplified to reducing minor road netorks and points of interests. Includes coloring of neighborhoods by density and coloring of waterways and grasslands to allow for ease of viewing.
+- Description of Tile: Modified basemap simplified by reducing minor road networks and points of interests. Includes coloring of neighborhoods by density and coloring of waterways and grasslands to allow for ease of viewing.
 - Geographic Area of Focus: Seattle, WA and surrounding neighborhoods 
 - Zoom Levels: Max Zoom - 14; Min Zoom - 10
 
@@ -17,7 +16,7 @@ Link to hosted webmap:
 ![Map Image](img/clinicstemp.PNG)
 
 
-- Description of Tile: Data layer showing the location of clinics in the Seattle Area and in Washington. 
+- Description of Tile: Data layer showing the location of clinics in the Seattle Area.
 - Geographic Area of Focus: Seattle, WA and surrounding neighborhoods 
 - Zoom Levels: Max Zoom - 14; Min Zoom - 10
 
